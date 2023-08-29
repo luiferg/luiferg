@@ -1,3 +1,5 @@
+![Banner](/og.png "Banner")
+
 # 💫 About Me:
 🌍 I'm based in Spain<br>🖥️ See my portfolio at [luisgomez.dev](https://luisgomez.dev/)<br>✉️ You can contact me at luisfgomezortiz@gmail.com<br>🧠 I'm learning Astro and SvelteKit<br>🤝 I'm open to collaborating on cool projects and with great people
 
