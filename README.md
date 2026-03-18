@@ -17,5 +17,5 @@ TypeScript · React · Next.js · Node.js · Tailwind · PostgreSQL · MongoDB
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiferg&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luiferg&theme=gotham&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiferg&theme=gotham&hide_border=true&layout=compact)
